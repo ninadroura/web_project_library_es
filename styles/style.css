@@ -379,16 +379,16 @@
   padding-left: 80px;
 }
 
+.footer__column_heading {
+  padding-bottom: 20px;
+  margin-top: 0%;
+  margin-bottom: 0;
+}
+
 .footer__logo {
   height: 80px;
   width: 58px;
   margin-right: auto;
-}
-
-.footer__column-heading {
-  padding-bottom: 20px;
-  margin-top: 0%;
-  margin-bottom: 0;
 }
 
 .footer__list {
