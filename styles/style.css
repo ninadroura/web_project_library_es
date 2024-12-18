@@ -370,7 +370,7 @@
 .footer__column_content_hour {
   font-size: small;
   margin-left: auto;
-  flex-direction: end;
+  align-content: end;
 }
 
 .footer__column_content_social {
@@ -413,9 +413,6 @@
 
 .footer__copyright {
   display: flex;
-  padding-bottom: 60px;
-  padding: 60px 80px;
   text-align: left;
-  padding-left: 60px;
   align-self: flex-start;
 }
