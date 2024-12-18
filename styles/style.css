@@ -366,14 +366,14 @@
   padding: 60px 80px;
 }
 
-.footer__column_content_hours {
+.footer__column--content-hours {
   font-size: small;
   right: 250px;
   margin-left: auto;
   justify-content: flex-end;
 }
 
-.footer__column_content_social {
+.footer__column--content-social {
   font-size: small;
 }
 
