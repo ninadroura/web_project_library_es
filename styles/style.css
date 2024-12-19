@@ -367,7 +367,7 @@
   margin: 0px;
 }
 
-.footer__column_content_hour {
+.footer__column_content_hours {
   font-size: small;
   margin-left: auto;
   align-content: end;
@@ -379,7 +379,7 @@
   padding-left: 80px;
 }
 
-.footer__column_heading {
+.footer__column-heading {
   padding-bottom: 20px;
   margin-top: 0%;
   margin-bottom: 0;
