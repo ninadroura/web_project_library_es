@@ -359,7 +359,7 @@
   font-size: small;
 }
 
-.footer__column {
+.footer__columns {
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
